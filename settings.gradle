@@ -1,0 +1,2 @@
+rootProject.name = "MovieRoom_veronika32"
+include ':app'
